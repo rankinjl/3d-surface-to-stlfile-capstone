@@ -1,6 +1,6 @@
 # 3d-surface-to-stlfile-capstone
 
-This repository contains my Computer Science Senior Capstone Project that I completed with my partner Alejandro Sanchez-Gonzalez in the Fall Semester of 2017. It is meant to take in a 3D surface from the user and output a 3D-printer-ready STL file. The user enters information such as 3D equation in the form z=f(x,y), a resolution of the object, a name for the object, and a bound on the XY plane in the form of a circle, triangle, or rectangle. The STL file is outputed to the Java project directory.
+This repository contains my Computer Science Senior Capstone Project that I completed with my partner Alejandro Sanchez-Gonzalez in the Fall Semester of 2017. It is meant to take in a 3D surface from the user and output a 3D-printer-ready STL file. The user enters information such as 3D equation in the form z=f(x,y), a resolution of the object, a name for the object, and a bound on the XY plane in the form of a circle, triangle, or rectangle. The STL file is outputted to the Java project directory.
 
 The Project Plan that we followed and the Requirements Documentation for this project are included in this repository. A Design Document is also included that outlines the processing the code follows, class diagrams, behavior diagrams, logical data models, and physical data models. A table of Test Cases is in the Test Cases Document and outlines some of what the program can and cannot do as of the end of the project in December 2017.
 
